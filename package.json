@@ -1,6 +1,6 @@
 {
   "name": "@jamsite/plugin-sitemap-xml",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Creates sitemap.xml page",
   "main": "index.js",
   "directories": {
